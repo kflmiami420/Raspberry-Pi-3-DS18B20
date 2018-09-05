@@ -34,5 +34,16 @@ def gettemp(id):
 if __name__ == '__main__':
 
   # Script has been called directly
+  #    This number is from running sudo commands bellow 
+  #    sudo modprobe w1-gpio
+  #    sudo modprobe w1-therm
+  #    cd /sys/bus/w1/devices
+  #    ls
+  #    cd 28-xxxx (change this to match what serial number pops up)
+  #    cat w1_slave
+  #
+  #    copy the number in the w1_slave folder and replace it in line called id= 
+  #    put number here ' make sure to place the ' before and after '  
+  
   id = '28-00000482b243'
   print "Temp : " + '{:.3f}'.format(gettemp(id)/float(1000))
