@@ -1,4 +1,4 @@
-https://www.adafruit.com/search?q=DS18B20
+
 
 <img id="Slide1" src="https://cdn-shop.adafruit.com/970x728/381-00.jpg" alt="Waterproof DS18B20 Digital temperature sensor + extras">
 
@@ -24,7 +24,7 @@ The following w1 therm sensor devices are supported:
 
 The following hardware is needed:
 
-* w1 therm compatible sensor (some of them can be bought here: [Adafruit: DS18B20](https://www.adafruit.com/search?q=DS18B20))
+* w1 therm compatible sensor (some of them can be bought here: [Adafruit: DS18B20]https://www.adafruit.com/search?q=DS18B20
 * wires to connect the sensor to your board (you might need a breadboard, too)
 * a board like the Raspberry Pi or the Beagle Bone)
 
