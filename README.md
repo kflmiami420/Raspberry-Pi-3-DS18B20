@@ -1,3 +1,8 @@
+https://www.adafruit.com/search?q=DS18B20
+
+<img id="Slide1" src="https://cdn-shop.adafruit.com/970x728/381-00.jpg" alt="Waterproof DS18B20 Digital temperature sensor + extras">
+
+
 # W1ThermSensor
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/timofurrer/w1thermsensor?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 > Get the temperature from your w1 therm sensor in a single line of code!<br>
@@ -13,11 +18,7 @@
 
 The following w1 therm sensor devices are supported:
 
-* DS18S20
-* DS1822
 * DS18B20
-* DS28EA00
-* DS1825/MAX31850K
 
 ## Setup
 
