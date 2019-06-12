@@ -1,3 +1,5 @@
+# This works on raspberry pi 3 and Zero w
+
 import os
 import glob
 import time
