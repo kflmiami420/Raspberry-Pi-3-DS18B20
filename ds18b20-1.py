@@ -1,3 +1,4 @@
+# This works on raspberry pi 3 and Zero w
 #ds18b20 python code C/ F
 
 import os
